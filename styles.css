@@ -27,4 +27,5 @@ footer {
 
 footer:hover {
     background-color: yellow;
+    margin-bottom: 50px;
 }
